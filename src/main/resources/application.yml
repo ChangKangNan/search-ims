@@ -1,0 +1,12 @@
+spring:
+  datasource:
+    url: jdbc:mysql://kaifa.mysql.guo-kai.com/gk-ims?useSSL=false&useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true&serverTimezone=UTC
+    username: gkims-kaifa
+    password: PGrsByizeD357ajR
+    driver-class-name: com.mysql.jdbc.Driver
+#spring:
+#  datasource:
+#    url: jdbc:mysql://test.mysql.guo-kai.com/gk-ims?useSSL=false&useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true&serverTimezone=UTC
+#    username: gkims-test
+#    password: KNAXDwCisaNrA5xd
+#    driver-class-name: com.mysql.jdbc.Driver
